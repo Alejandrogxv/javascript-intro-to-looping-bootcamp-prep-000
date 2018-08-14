@@ -7,5 +7,5 @@ for(var i = 1; i <100; i++) {
 }
 
 function forLoop(array){
-  console.log
+  for 
 }
